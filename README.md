@@ -50,6 +50,3 @@ Based on the measured distance, the system can trigger alerts or indicators to s
 ## 📄 License
 
 MIT License
-## 📄 License
-
-MIT License
